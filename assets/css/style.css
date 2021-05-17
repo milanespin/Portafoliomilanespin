@@ -1,0 +1,68 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hero-section {
+    text-align : left;
+    background-image : url('../img/banner.jpg');
+    background-repeat : no-repeat;
+    background-size : cover;
+    color : #ffffff ;
+    text-shadow : 2px 3px 2px #1d1d1d ;
+    padding : 50px 50px 150px 50px ;
+}
+
+h1 {
+    font-size: 50pt;
+}
+
+.carousel-indicators {
+    top: 20px;
+    position: relative;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: #383838;
+}
+
+section {
+    text-align: center;
+}
+
+form {
+    text-align: start;
+}
+
+.bannerabajo {
+    background-color: #ececec;
+}
+
+footer {
+    background-color: #1f1f1f;
+    text-align: center;
+    color: #ffffff;
+}
+
+.derechos {
+    font-size: 10pt;;
+}
+
+h3 {
+    font-size: 25pt;
+}
+
+.titulo {
+    text-align: start;
+
+}
+
+.subtitulo {
+    text-align: start;
+}
+
+.mapa {
+    width: 400px;
+}
